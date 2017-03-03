@@ -44,7 +44,7 @@ jira:
  service_id: jira
  parameters:
    type: existing
-   project_key: "NUTCH"
+   project_key: "HIVE"
    api_url: "https://issues.apache.org/jira"
 
 
